@@ -3,25 +3,21 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="230.13px" height="230.13px" viewBox="0 0 230.13 230.13" enable-background="new 0 0 230.13 230.13" xml:space="preserve">
-<g>
-	<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M69.166,67.092h91.799c2.971,0,5.4,2.43,5.4,5.4v53.458
-		c0,2.971-2.43,5.401-5.4,5.401H69.166c-2.971,0-5.401-2.431-5.401-5.401V72.493C63.765,69.522,66.195,67.092,69.166,67.092"/>
-	<path fill="none" stroke="#333333" stroke-width="7.9999" stroke-miterlimit="22.9256" d="M166.365,93.799v13.494 M63.765,107.292
-		v-34.8c0-2.97,2.43-5.4,5.401-5.4h91.799c2.971,0,5.4,2.43,5.4,5.4v11.856"/>
-	<rect x="78.765" y="55.095" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="72.6" height="67.416"/>
-	<polyline fill="none" stroke="#333333" stroke-width="7.9999" stroke-miterlimit="22.9256" points="78.765,107.292 78.765,55.095 
-		151.365,55.095 151.365,107.292 	"/>
-	<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFCD2E" d="M50.495,107.292h129.14c3.061,0,5.565,2.504,5.565,5.565v43.41
-		c0,3.062-2.505,5.565-5.565,5.565H50.495c-3.062,0-5.565-2.504-5.565-5.565v-43.41C44.93,109.796,47.434,107.292,50.495,107.292"/>
-	<path fill="none" stroke="#333333" stroke-width="7.9999" stroke-miterlimit="22.9256" d="M185.2,146.448v9.819
-		c0,3.062-2.505,5.565-5.565,5.565H50.495c-3.062,0-5.565-2.504-5.565-5.565v-43.41c0-3.061,2.504-5.565,5.565-5.565h129.14
-		c3.061,0,5.565,2.504,5.565,5.565v24.591"/>
-	<rect x="78.765" y="139.361" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="72.6" height="35.674"/>
-	<polyline fill="none" stroke="#333333" stroke-width="7.9999" stroke-miterlimit="22.9256" points="151.365,139.361 
-		151.365,175.035 78.765,175.035 78.765,139.361 	"/>
-	
-		<line fill="none" stroke="#333333" stroke-width="7.9999" stroke-miterlimit="22.9256" x1="91.665" y1="148.833" x2="138.465" y2="148.833"/>
-	
-		<line fill="none" stroke="#333333" stroke-width="7.9999" stroke-miterlimit="22.9256" x1="91.665" y1="161.833" x2="138.465" y2="161.833"/>
-</g>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M69.166,67.092h91.799c2.971,0,5.4,2.43,5.4,5.4v53.458
+	c0,2.971-2.43,5.401-5.4,5.401H69.166c-2.971,0-5.401-2.431-5.401-5.401V72.493C63.765,69.522,66.195,67.092,69.166,67.092"/>
+<path fill="none" stroke="#333333" stroke-width="7.9999" stroke-miterlimit="22.9256" d="M166.365,93.799v13.494 M63.765,107.292
+	v-34.8c0-2.97,2.43-5.4,5.401-5.4h91.799c2.971,0,5.4,2.43,5.4,5.4v11.856"/>
+<rect x="78.765" y="55.095" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="72.6" height="67.416"/>
+<polyline fill="none" stroke="#333333" stroke-width="7.9999" stroke-miterlimit="22.9256" points="78.765,107.292 78.765,55.095 
+	151.365,55.095 151.365,107.292 "/>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFCD2E" d="M50.495,107.292h129.14c3.061,0,5.565,2.504,5.565,5.565v43.41
+	c0,3.062-2.505,5.565-5.565,5.565H50.495c-3.062,0-5.565-2.504-5.565-5.565v-43.41C44.93,109.796,47.434,107.292,50.495,107.292"/>
+<path fill="none" stroke="#333333" stroke-width="7.9999" stroke-miterlimit="22.9256" d="M185.2,146.448v9.819
+	c0,3.062-2.505,5.565-5.565,5.565H50.495c-3.062,0-5.565-2.504-5.565-5.565v-43.41c0-3.061,2.504-5.565,5.565-5.565h129.14
+	c3.061,0,5.565,2.504,5.565,5.565v24.591"/>
+<rect x="78.765" y="139.361" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="72.6" height="35.674"/>
+<polyline fill="none" stroke="#333333" stroke-width="7.9999" stroke-miterlimit="22.9256" points="151.365,139.361 
+	151.365,175.035 78.765,175.035 78.765,139.361 "/>
+<line fill="none" stroke="#333333" stroke-width="7.9999" stroke-miterlimit="22.9256" x1="91.665" y1="148.833" x2="138.465" y2="148.833"/>
+<line fill="none" stroke="#333333" stroke-width="7.9999" stroke-miterlimit="22.9256" x1="91.665" y1="161.833" x2="138.465" y2="161.833"/>
 </svg>
