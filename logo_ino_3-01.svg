@@ -4,12 +4,6 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="34px" height="34px" viewBox="0 0 34 34" enable-background="new 0 0 34 34" xml:space="preserve">
 <rect y="2" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="32" height="32"/>
-<g>
-	<path fill-rule="evenodd" clip-rule="evenodd" fill="#333333" d="M20.051,29.835h-3.25h-2.633H8.029c-0.445,0-0.888,0-1.333,0
-		c-2.529,0-4.026-2.09-3.338-4.453L6.93,13.119h9.132l-0.659,2.261l-0.027,0.091l0,0l-1.674,5.747H16.7l2.36-8.1v-0.022
-		c0.08-0.273,0.446-1.546,0.85-2.943l0.012-0.042l0.004-0.011l0.548-1.906h0.006c0.667-2.277,1.348-4.031,4.446-4.031h5.884
-		L29.528,8.53l-0.122,0.419l-0.001,0.006l-4.767,16.361C23.914,27.826,23.367,29.835,20.051,29.835"/>
-	<path fill-rule="evenodd" clip-rule="evenodd" fill="#333333" d="M12.81,4.164h5.883l-1.757,5.989H7.794l0.349-1.198
-		C8.91,6.319,9.375,4.164,12.81,4.164"/>
-</g>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#333333" d="M7,2h8v8H7V2z M27,2h4l-4,4v4v8v8v8h-4h-4h-4H7v-8V14h8h4v-4V2H27z
+	 M15,26h4v-8v-4l-4,4V26z"/>
 </svg>
