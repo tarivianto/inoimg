@@ -3,12 +3,15 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="230.13px" height="230.13px" viewBox="0 0 230.13 230.13" enable-background="new 0 0 230.13 230.13" xml:space="preserve">
-<path fill="none" stroke="#333333" stroke-width="7.9999" stroke-miterlimit="22.9256" d="M105.07,85.905l18.899-40.2
-	c0,0,1.206-3.249,4.886-3.752s5.68,1.824,6.857,3.07l17.657,18.682"/>
+<path fill="none" stroke="#333333" stroke-width="7.9999" stroke-miterlimit="22.9256" d="M110.785,90.873l9.139-43.471
+	c0,0,0.426-3.439,3.891-4.775c3.466-1.337,5.947,0.467,7.381,1.409l21.482,14.116"/>
 <rect x="74.771" y="94.984" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="53.399" height="89.263"/>
 <rect x="74.771" y="72.647" fill-rule="evenodd" clip-rule="evenodd" fill="#FFCD2E" width="53.399" height="85.141"/>
-<polyline fill="none" stroke="#333333" stroke-width="7.9999" stroke-miterlimit="22.9256" points="128.17,94.984 128.17,184.247 
-	74.771,184.247 74.771,72.647 128.17,72.647 128.17,88.311 "/>
+<g>
+	<polygon fill="#333333" points="124.17,180.247 118.75,180.247 118.75,188.247 132.17,188.247 132.17,94.984 124.17,94.984 	"/>
+	<polygon fill="#333333" points="70.771,68.647 70.771,188.247 101.47,188.247 101.47,180.247 78.771,180.247 78.771,76.647 
+		124.17,76.647 124.17,88.311 132.17,88.311 132.17,68.647 	"/>
+</g>
 <path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M143.647,128.171c3.284,3.058,5.764,7.067,7.511,11.105
 	c2.916,6.739,4.201,14.34,4.201,21.657c0,8.558-1.78,17.728-5.973,25.259l-1.144,2.055h-34.057l-1.145-2.055
 	c-4.191-7.531-5.972-16.701-5.972-25.259c0-7.317,1.285-14.918,4.201-21.657c1.747-4.038,4.227-8.048,7.511-11.105
