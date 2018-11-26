@@ -4,28 +4,25 @@
 <svg version="1.1" id="Layer_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="230.129px" height="230.129px" viewBox="0 0 230.129 230.129" enable-background="new 0 0 230.129 230.129"
 	 xml:space="preserve">
+<polygon fill="#FFFFFF" points="98.296,92.655 98.296,137.473 141.781,158.969 141.781,71.159 "/>
+<circle fill="#FFFFFF" cx="67.271" cy="115.064" r="22.512"/>
+<rect x="67.271" y="92.655" fill="#FFCD2E" width="31.025" height="44.817"/>
+<line fill="#FFFFFF" stroke="#313131" stroke-width="8" stroke-miterlimit="10" x1="158.5" y1="115.063" x2="185.371" y2="115.063"/>
 <g>
-	<circle fill="#FFFFFF" cx="61.705" cy="115.063" r="25.134"/>
-	<rect x="61.705" y="90.045" fill="#FFCD2E" width="34.638" height="50.036"/>
-	<polygon fill="#FFFFFF" points="96.343,90.045 96.343,90.582 96.343,139.545 96.343,140.082 123.477,153.495 127.113,155.292 
-		130.012,156.726 144.892,164.082 144.892,139.545 144.892,94.815 144.892,90.582 144.892,81.815 144.892,66.045 	"/>
+	<line fill="#FFFFFF" stroke="#313131" stroke-width="8" stroke-miterlimit="10" x1="158.5" y1="98.379" x2="178.641" y2="78.24"/>
 	
-		<line fill="none" stroke="#000000" stroke-width="8" stroke-linecap="square" stroke-miterlimit="10" x1="163.558" y1="115.063" x2="193.558" y2="115.063"/>
-	<g>
-		
-			<line fill="none" stroke="#000000" stroke-width="8" stroke-linecap="square" stroke-miterlimit="10" x1="163.558" y1="96.436" x2="186.044" y2="73.951"/>
-		
-			<line fill="none" stroke="#000000" stroke-width="8" stroke-linecap="square" stroke-miterlimit="10" x1="163.558" y1="133.69" x2="186.044" y2="156.176"/>
-	</g>
-	<line fill="none" stroke="#000000" stroke-width="8" stroke-miterlimit="10" x1="61.705" y1="90.045" x2="61.705" y2="140.082"/>
-	<line fill="none" stroke="#000000" stroke-width="8" stroke-miterlimit="10" x1="96.343" y1="90.045" x2="96.343" y2="140.082"/>
-	<path fill="none" stroke="#000000" stroke-width="8" stroke-miterlimit="10" d="M144.892,84.064V66.045l-48.549,24H64.097
-		c-0.788-0.074-1.584-0.116-2.392-0.116c-13.881,0-25.134,11.253-25.134,25.134s11.253,25.134,25.134,25.134
-		c0.803,0,1.595-0.042,2.379-0.115h32.259l28.915,14.294"/>
-	<line fill="none" stroke="#000000" stroke-width="8" stroke-miterlimit="10" x1="144.892" y1="105.481" x2="144.892" y2="95.564"/>
-	<polyline fill="none" stroke="#000000" stroke-width="8" stroke-miterlimit="10" points="132.727,158.068 144.892,164.082 
-		144.892,139.545 144.892,112.064 	"/>
-	<path fill="#FFFFFF" stroke="#000000" stroke-width="8" stroke-miterlimit="10" d="M70.365,164.083v-32.88
-		c0-4.779-3.88-8.659-8.66-8.659s-8.66,3.88-8.66,8.659v32.88"/>
+		<line fill="#FFFFFF" stroke="#313131" stroke-width="8" stroke-miterlimit="10" x1="158.5" y1="131.748" x2="178.641" y2="151.889"/>
 </g>
+<line fill="#FFFFFF" stroke="#313131" stroke-width="8" stroke-miterlimit="10" x1="67.271" y1="92.655" x2="67.271" y2="137.473"/>
+<line fill="#FFFFFF" stroke="#313131" stroke-width="8" stroke-miterlimit="10" x1="98.296" y1="92.655" x2="98.296" y2="137.473"/>
+<path fill="none" stroke="#313131" stroke-width="8" stroke-miterlimit="10" d="M141.781,87.298V71.159L98.296,92.655H69.413
+	c-0.706-0.067-1.419-0.104-2.143-0.104c-12.433,0-22.513,10.079-22.513,22.512c0,12.433,10.08,22.513,22.513,22.513
+	c0.719,0,1.429-0.037,2.131-0.104h7.522"/>
+<path fill="#FFFFFF" stroke="#313131" stroke-width="8" stroke-miterlimit="10" d="M75.027,158.971V129.52
+	c0-4.279-3.476-7.756-7.757-7.756s-7.757,3.477-7.757,7.756v29.451"/>
+<line fill="none" stroke="#313131" stroke-width="8" stroke-miterlimit="10" x1="98.296" y1="137.473" x2="85.064" y2="137.473"/>
+<polyline fill="none" stroke="#313131" stroke-width="8" stroke-miterlimit="10" points="141.781,87.298 141.781,71.159 
+	98.296,92.655 "/>
+<polyline fill="none" stroke="#313131" stroke-width="8" stroke-miterlimit="10" points="98.296,137.473 141.781,158.969 
+	141.781,97.564 "/>
 </svg>
