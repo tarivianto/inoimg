@@ -26,25 +26,25 @@
 </g>
 <g id="Layer_3">
 	<g>
-		<path fill="none" stroke="#000000" stroke-width="8" stroke-miterlimit="10" d="M191.75,71.387"/>
-		<path fill="none" stroke="#000000" stroke-width="8" stroke-miterlimit="10" d="M157.416,110.137"/>
-		<polyline fill="#FFFFFF" stroke="#313131" stroke-width="8" stroke-miterlimit="10" points="38.378,88.074 38.378,73.074 
-			155.379,73.074 155.379,145.574 127.879,145.574 		"/>
-		<polyline fill="#FFFFFF" stroke="#313131" stroke-width="8" stroke-miterlimit="10" points="115.879,145.574 38.378,145.574 
-			38.378,97.325 		"/>
-		<polygon fill="#FFCD2E" stroke="#313131" stroke-width="8" stroke-miterlimit="10" points="57.467,101.107 70.544,93.557 
-			83.622,101.107 83.622,116.209 70.544,123.758 57.467,116.209 		"/>
+		<path fill="none" stroke="#000000" stroke-width="8" stroke-miterlimit="10" d="M191.75,103.876"/>
+		<path fill="none" stroke="#000000" stroke-width="8" stroke-miterlimit="10" d="M157.416,142.626"/>
+		<polyline fill="#FFFFFF" stroke="#313131" stroke-width="8" stroke-miterlimit="10" points="38.378,120.563 38.378,105.563 
+			155.379,105.563 155.379,178.063 127.879,178.063 		"/>
+		<polyline fill="#FFFFFF" stroke="#313131" stroke-width="8" stroke-miterlimit="10" points="115.879,178.063 38.378,178.063 
+			38.378,129.814 		"/>
+		<polygon fill="#FFCD2E" stroke="#313131" stroke-width="8" stroke-miterlimit="10" points="57.467,133.597 70.544,126.046 
+			83.622,133.597 83.622,148.698 70.544,156.247 57.467,148.698 		"/>
 		
-			<line fill="#FFFFFF" stroke="#313131" stroke-width="8" stroke-miterlimit="10" x1="96.878" y1="101.074" x2="144.879" y2="101.074"/>
+			<line fill="#FFFFFF" stroke="#313131" stroke-width="8" stroke-miterlimit="10" x1="96.878" y1="133.563" x2="144.879" y2="133.563"/>
 		
-			<line fill="#FFFFFF" stroke="#313131" stroke-width="8" stroke-miterlimit="10" x1="96.878" y1="113.574" x2="127.879" y2="113.574"/>
-		<path fill="#FFCD2E" stroke="#313131" stroke-width="8" stroke-miterlimit="10" d="M165.822,123.623
+			<line fill="#FFFFFF" stroke="#313131" stroke-width="8" stroke-miterlimit="10" x1="96.878" y1="146.063" x2="127.879" y2="146.063"/>
+		<path fill="#FFCD2E" stroke="#313131" stroke-width="8" stroke-miterlimit="10" d="M165.822,156.112
 			c1.016-7.998,5.35-17.408,5.35-17.408l-14.176-7.651l-14.176,7.651c0,0,4.336,9.41,5.352,17.408
-			c1.545,12.176-15.268,16.75-15.268,16.75v12.369h24.092h24.094v-12.369C181.09,140.373,164.275,135.799,165.822,123.623z"/>
-		<circle fill="#FFCD2E" stroke="#313131" stroke-width="8" stroke-miterlimit="10" cx="156.996" cy="102.564" r="18.773"/>
-		<rect x="127.879" y="140.373" fill="#FFFFFF" width="58.236" height="18.369"/>
-		<polyline fill="#FFFFFF" stroke="#313131" stroke-width="8" stroke-miterlimit="10" points="167.629,155.742 127.879,155.742 
-			127.879,140.373 186.115,140.373 186.115,155.742 175.879,155.742 		"/>
+			c1.545,12.176-15.268,16.75-15.268,16.75v12.369h24.092h24.094v-12.369C181.09,172.862,164.275,168.288,165.822,156.112z"/>
+		<circle fill="#FFCD2E" stroke="#313131" stroke-width="8" stroke-miterlimit="10" cx="156.996" cy="135.054" r="18.773"/>
+		<rect x="127.879" y="172.862" fill="#FFFFFF" width="58.236" height="18.369"/>
+		<polyline fill="#FFFFFF" stroke="#313131" stroke-width="8" stroke-miterlimit="10" points="167.629,188.231 127.879,188.231 
+			127.879,172.862 186.115,172.862 186.115,188.231 175.879,188.231 		"/>
 	</g>
 </g>
 </svg>
