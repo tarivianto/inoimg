@@ -1,28 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="230.129px" height="230.129px" viewBox="0 0 230.129 230.129" enable-background="new 0 0 230.129 230.129"
 	 xml:space="preserve">
-<polyline fill="#FFCD2E" stroke="#000000" stroke-width="8" stroke-miterlimit="10" points="191.02,141.731 191.02,155.781 
-	98.98,155.781 98.98,97.131 191.02,97.131 191.02,131.398 "/>
-<rect x="39.11" y="52.231" fill="#FFFFFF" width="83" height="113.01"/>
-<line fill="none" stroke="#000000" stroke-width="8" stroke-miterlimit="10" x1="53.776" y1="108.736" x2="105.249" y2="108.736"/>
-<line fill="none" stroke="#000000" stroke-width="8" stroke-miterlimit="10" x1="53.776" y1="122.206" x2="80.61" y2="122.206"/>
-<line fill="none" stroke="#000000" stroke-width="8" stroke-miterlimit="10" x1="53.776" y1="80.231" x2="80.61" y2="80.231"/>
-<path fill="none" stroke="#000000" stroke-width="8" stroke-miterlimit="10" d="M108.19,151.398"/>
-<path fill="none" stroke="#000000" stroke-width="8" stroke-miterlimit="10" d="M81.357,151.398"/>
-<path fill="none" stroke="#000000" stroke-width="8" stroke-miterlimit="10" d="M191.02,155.781h-14.45
-	c-5.57-7.77-8.96-18.05-8.96-29.319c0-11.271,3.39-21.561,8.96-29.33"/>
-<circle fill="#FFFFFF" stroke="#000000" stroke-width="8" stroke-miterlimit="10" cx="168.756" cy="126.459" r="8.646"/>
-<rect x="39.11" y="52.231" fill="#FFCD2E" width="84.494" height="18.834"/>
-<rect x="39.11" y="155.781" fill="#FFCD2E" width="84.494" height="9.116"/>
-<polyline fill="none" stroke="#000000" stroke-width="8" stroke-miterlimit="10" points="80.61,165.241 39.11,165.241 39.11,52.231 
-	122.11,52.231 122.11,75.399 "/>
-<polyline fill="none" stroke="#000000" stroke-width="8" stroke-miterlimit="10" points="122.11,83.731 122.11,165.241 
-	88.235,165.241 "/>
-<polyline fill="#FFFFFF" points="129.86,177.898 99.43,177.898 99.43,147.388 147.777,147.388 147.777,177.898 138.11,177.898 "/>
-<rect x="99.43" y="168.564" fill="#FFCD2E" width="48.347" height="9.334"/>
-<polyline fill="none" stroke="#000000" stroke-width="8" stroke-miterlimit="10" points="129.86,177.898 99.43,177.898 
-	99.43,147.388 147.777,147.388 147.777,177.898 138.11,177.898 "/>
+<g id="Layer_2" display="none">
+	<polyline display="inline" fill="#FFCD2E" stroke="#313131" stroke-width="8" stroke-miterlimit="10" points="146.018,88.864 
+		150.838,123.674 48.641,137.831 39.934,74.97 142.131,60.813 144.041,74.604 	"/>
+	<polyline display="inline" fill="#FFFFFF" stroke="#313131" stroke-width="8" stroke-miterlimit="10" points="115.732,150.403 
+		58.859,150.403 58.859,86.941 162.032,86.941 162.032,97.76 162.032,106.871 162.032,109.645 162.032,150.403 134.475,150.403 	"/>
+	<polygon display="inline" fill="#FFCD2E" points="86.371,106.379 90.365,114.473 99.297,115.77 92.834,122.07 94.359,130.965 
+		86.371,126.765 78.382,130.965 79.908,122.07 73.444,115.77 82.376,114.473 	"/>
+	<path display="inline" fill="#FFCD2E" stroke="#313131" stroke-width="8" stroke-miterlimit="10" d="M179.909,135.431
+		c4.319-1.913,7.87-5.385,9.442-9.563c3.051-8.102-2.485-15.777-11.591-19.205c-9.104-3.428-18.329-1.309-21.38,6.792
+		c-1.932,5.13-0.921,11.426,2.393,16.226c0.119,3.771-0.188,9.14-2.428,12.741c-3.011,4.843-13.367,7.063-13.367,7.063l-3.28,8.712
+		l16.345,6.153l16.346,6.153l3.279-8.713c0,0-6.322-8.498-5.393-14.124c0.466-2.811,2.109-5.646,3.92-8.038"/>
+	<polyline display="inline" fill="#FFFFFF" stroke="#313131" stroke-width="8" stroke-miterlimit="10" points="174.742,175.658 
+		184.458,179.314 189.563,165.758 129.916,143.303 124.813,156.86 167.813,173.03 	"/>
+	
+		<line display="inline" fill="none" stroke="#313131" stroke-width="8" stroke-miterlimit="10" x1="158.773" y1="129.679" x2="167.813" y2="133.082"/>
+	
+		<line display="inline" fill="none" stroke="#313131" stroke-width="8" stroke-miterlimit="10" x1="110.445" y1="115.739" x2="146.512" y2="115.739"/>
+	
+		<line display="inline" fill="none" stroke="#313131" stroke-width="8" stroke-miterlimit="10" x1="110.445" y1="129.757" x2="138.589" y2="129.757"/>
+</g>
+<g id="Layer_3">
+	<g>
+		<path fill="none" stroke="#000000" stroke-width="8" stroke-miterlimit="10" d="M191.75,71.387"/>
+		<path fill="none" stroke="#000000" stroke-width="8" stroke-miterlimit="10" d="M157.416,110.137"/>
+		<polyline fill="#FFFFFF" stroke="#313131" stroke-width="8" stroke-miterlimit="10" points="38.378,88.074 38.378,73.074 
+			155.379,73.074 155.379,145.574 127.879,145.574 		"/>
+		<polyline fill="#FFFFFF" stroke="#313131" stroke-width="8" stroke-miterlimit="10" points="115.879,145.574 38.378,145.574 
+			38.378,97.325 		"/>
+		<polygon fill="#FFCD2E" stroke="#313131" stroke-width="8" stroke-miterlimit="10" points="57.467,101.107 70.544,93.557 
+			83.622,101.107 83.622,116.209 70.544,123.758 57.467,116.209 		"/>
+		
+			<line fill="#FFFFFF" stroke="#313131" stroke-width="8" stroke-miterlimit="10" x1="96.878" y1="101.074" x2="144.879" y2="101.074"/>
+		
+			<line fill="#FFFFFF" stroke="#313131" stroke-width="8" stroke-miterlimit="10" x1="96.878" y1="113.574" x2="127.879" y2="113.574"/>
+		<path fill="#FFCD2E" stroke="#313131" stroke-width="8" stroke-miterlimit="10" d="M165.822,123.623
+			c1.016-7.998,5.35-17.408,5.35-17.408l-14.176-7.651l-14.176,7.651c0,0,4.336,9.41,5.352,17.408
+			c1.545,12.176-15.268,16.75-15.268,16.75v12.369h24.092h24.094v-12.369C181.09,140.373,164.275,135.799,165.822,123.623z"/>
+		<circle fill="#FFCD2E" stroke="#313131" stroke-width="8" stroke-miterlimit="10" cx="156.996" cy="102.564" r="18.773"/>
+		<rect x="127.879" y="140.373" fill="#FFFFFF" width="58.236" height="18.369"/>
+		<polyline fill="#FFFFFF" stroke="#313131" stroke-width="8" stroke-miterlimit="10" points="167.629,155.742 127.879,155.742 
+			127.879,140.373 186.115,140.373 186.115,155.742 175.879,155.742 		"/>
+	</g>
+</g>
 </svg>
